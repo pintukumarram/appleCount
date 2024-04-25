@@ -1,0 +1,27 @@
+section{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(207, 207, 232);
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 4rem;
+  align-items: center;
+}
+button img{
+  max-width: 40px;
+}
+.basket-1 img{
+max-width: 100px;
+}
+.basket-2 img{
+  max-width: 100px;
+}
+button{
+  border: none;
+  border-radius: 25px;
+  background-color: rgb(176, 249, 103);
+}
+button:hover{
+ background-color: crimson;
+ cursor: pointer;
+}
